@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandra Bogomola @a-bogomola
 - 👀 I’m interested in to learn coding as I am new to this field. Currently studying in StartSchool using QWASAR platform.
-- 🌱 I’m currently learning CSS, C and JavaScript basics.
+- 🌱 I’m currently learning HTML, CSS, Ruby, C and JavaScript basics.
 - 💞️ I’m looking to collaborate on beginner level projects.
 - 😄 Pronouns: Sasha (I know soo confusing, but this is shorter version of my name)
 - ⚡ Fun fact: I love sports and travelling. Especially tennis <3
